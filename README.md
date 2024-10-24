@@ -46,21 +46,15 @@ Open source Managed Components that can be used to integrate various analytics, 
 - [Ziprecruiter](https://github.com/managed-components/ziprecruiter)
 
 ### Community Managed Components
-- [PostHog](https://github.com/mountainash/posthog-managed-component) *contributions welcome*
+- [PostHog](https://github.com/mountainash/posthog-managed-component)
 - [Counterscale](https://github.com/mackenly/counterscale-managed-component)
 
 
 ## Libraries
 Libraries, packages, and tools for developing for Cloudflare Zaraz.
 
-### Managed Components Libraries
-
 - [Managed Component Types](https://github.com/managed-components/types)
 - [Zaraz Tools - Test Mocking, Utilities, and more](https://github.com/mackenly/zaraz-tools)
-
-### Consent Management Libraries
-
-- [Zaraz Tools - Utilities and React Component Primitives](https://github.com/mackenly/zaraz-tools)
 
 
 ## Templates
