@@ -10,6 +10,7 @@
 - [Templates](#templates)
 - [Resources](#resources)
 - [Tools](#tools)
+- [Contribute](#contribute)
 
 
 ## Managed Components
